@@ -10,3 +10,4 @@
 4. spring boot-spring security：前后端分离的spring security示例
 5. spring boot-spring security_2_jwt：前后端分离的spring security+jwt示例
 6. spring boot-spring security_3：前后端未分离的spring security示例
+7. outhy-sso：基于oauth的单点登录项目
